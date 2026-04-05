@@ -4,6 +4,9 @@ Este proyecto es un modelo matemático desarrollado en **Python** que analiza la
 
 ## 🧠 El Concepto
 Inspirado en modelos como el **Número de Reynolds**, la ECR busca cuantificar sistemas complejos (relaciones) mediante variables estructurales y moduladores de riesgo.
+---
+### 📚 Respaldo Teórico
+El desarrollo de este modelo se basó en análisis de sistemas complejos documentados en bitácora física. Puedes consultar los apuntes originales en la carpeta [docs/](./docs).
 
 ### La Fórmula Maestra
 $$NER = \left[ \left( \frac{M + B + 0.5A + S + 0.7E}{4.2} \right) \cdot \sqrt{\frac{C}{10}} \right] - 0.01I^3$$
